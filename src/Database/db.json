@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Rohit",
+      "username": "rk123",
+      "email": "rohit390@gmail.com",
+      "phone": "8756432113",
+      "id": 1
+    },
+    {
+      "name": "Rahul",
+      "username": "rahul123",
+      "email": "rk@gmail.com",
+      "phone": "9873748372",
+      "id": 2
+    },
+    {
+      "name": "Sonam",
+      "username": "sonam123",
+      "email": "sonam345@gmail.com",
+      "phone": "9833749493",
+      "id": 3
+    },
+    {
+      "name": "Anish",
+      "username": "anish98",
+      "email": "anish99@gmail.com",
+      "phone": "8956432145",
+      "id": 4
+    },
+    {
+      "name": "Priti",
+      "username": "priti",
+      "email": "priti897@gmail.com",
+      "phone": "7867367367",
+      "id": 5
+    },
+    {
+      "name": "Akash",
+      "username": "akash",
+      "email": "akash355@gmail.com",
+      "phone": "7832837854",
+      "id": 6
+    }
+  ]
+}
